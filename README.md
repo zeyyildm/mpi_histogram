@@ -5,7 +5,7 @@ A parallel C++ program using **MPI** to calculate the frequency of digits (0-9) 
 ## Features ✨
 
 - **Parallel computation** with MPI  
-- **Data distribution** using `MPI_Scatter`  
+- **Data distribution** using `MPI_Scatter`   
 - **Result collection** using `MPI_Gather`  
 - **Execution time measurement** ⏱️  
 - Works on **Mac, Linux, and Windows** 💻  
